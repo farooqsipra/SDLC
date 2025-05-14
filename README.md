@@ -2,7 +2,7 @@
 # Software Development Life Cycle (SDLC)
 
 Welcome to the **SDLC Guide Repository** by **Farooq Sipra**.  
-This repository contains a beginner-to-pro-level breakdown of the **Software Development Life Cycle**, including diagrams, documentation, and phase-wise explanations. It's ideal for students, developers, testers, and project managers.
+This repository contains a beginner-to-pro-level breakdown of the **Software Development Life Cycle**, including diagrams and phase-wise explanations. It's ideal for students, developers, testers, and project managers.
 
 ---
 
