@@ -1,4 +1,4 @@
-#Software Development Life Cycle (SDLC)
+Software Development Life Cycle (SDLC)
 
 Welcome to the **SDLC Guide Repository** by **Farooq Sipra**.  
 
